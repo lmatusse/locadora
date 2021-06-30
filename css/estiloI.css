@@ -1,0 +1,248 @@
+
+*
+{
+    margin:0;
+    padding:0;
+}
+
+
+input:focus
+{
+    color:white;
+    background:green;
+}
+table
+{
+    text-align: center;
+    position:relative;
+    top:5%;
+    margin:auto;/*centraliza tabela*/
+    
+    
+}
+body{
+    text-align:center;
+    font-family: verdana ;
+}
+
+h1
+{
+    font-family:sans-serif;
+    text-align: center;
+    color:white;
+    font-family: verdana ;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px;
+}	
+.espaco
+{
+    background:#1C1C1C;
+    padding: 20px;
+}
+
+body
+{
+    background:#D3D3D3;
+}
+h2
+{
+    background:#A9A9A9;
+    padding:7px;
+    
+}
+
+
+td
+{
+    text-align:justify;
+    padding:6px;
+}
+
+.alugar
+	{
+		text-decoration: none;
+		border:1px solid white;
+		background:black;
+		color: white;
+		padding:2px;
+		margin:4px;
+	
+    }
+    body{
+        font-family: arial;
+        box-sizing: border-box;
+    }
+        table, tr, td{
+            border-collapse: collapse;
+            border: solid 1px #1C1C1C; 
+        }
+    
+        tr:hover{
+            background-color: #959595;
+            color: #fff;
+        }
+    
+        th{
+            background-color: black;
+            color: white;
+            padding:7px;
+        }
+        *
+        {
+            margin:0;
+            padding:0;
+        }
+        
+        form
+        {
+            float: right;
+        }
+        p
+        {
+            float: right;
+        }
+        html{
+            overflow-y:auto;
+            }
+        input:focus
+        {
+            color:white;
+            background:green;
+        }
+        table
+        {
+            text-align: center;
+            position: relative;
+            top:25%;
+            margin: auto;
+            
+            
+        }
+        
+        .icon
+        {
+
+		width:30px;
+		height:30px;
+        }
+        
+        h1
+        {
+            font-family:sans-serif;
+            text-align: center;
+            color:white;
+            font-family: verdana ;
+            font-size: 25px;
+            background-color: black;
+            padding: 10px;
+        }
+        
+        body
+        {
+            background:#d6cfcf;
+
+        }
+        nav
+        {
+            text-align: center;
+            background-color: #A9A9A9;
+            padding:5px;
+    
+        }
+        
+        nav ul li
+        {
+            background-color: #A9A9A9;
+            color:#f2eded;
+            width: 150px;
+            height: 30px;
+            display: inline-block;
+            text-align: center;
+            line-height: 30px;
+            font-size: 16px;
+        
+        }
+        .menu ul ul li .menu-a
+        {
+            color:white;
+        }    
+        .menu ul li:hover 
+        {
+            color:#f2eded; 
+            background-color: rgb(7, 7, 7);
+            text-shadow:0px 0px 2px rgb(255, 255, 255)
+        }
+        .menu ul ul
+        {
+            display: none;
+            background-color: #020202
+        }
+        .menu ul{
+            padding: 0;
+        }
+        .menu li
+        {
+            position:relative; 
+        }
+        
+        .menu li .menu-a
+        {
+            color:#f2eded; 
+            text-decoration:none; 
+            padding:2px 4px; 
+            display:block;
+        }
+        .menu li:hover ul, .menu li.over ul{
+            display:block;
+        
+        }
+        .aul 
+        {
+            float: left;
+            overflow: hidden;
+          }
+          
+        ul a 
+          {
+            font-size: 15px;  
+            color: white;
+            padding: 13px 15px;
+            background-color: inherit;
+            
+          }
+        h3
+          {
+              text-align: center;
+          }
+        
+        hr{
+            size: 3px;
+        }
+        .action-button{
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            padding:6px;
+            margin:2px;
+        }
+        .action-button1{
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            padding:10px 12px;
+        }
+        .action-button1:hover
+        {
+            background-color: #020202;
+            border: #A9A9A9 solid 1px;
+        }
+        h3
+        {
+            text-align:center;
+            background-color: #8d8a8a;
+            padding:5px;
+        }
+       

@@ -1,0 +1,70 @@
+form
+	{
+		
+		position:relative;
+		margin:2px;
+		padding:10px;
+		
+	}
+	
+	
+	.espaco
+	{
+		background:#1C1C1C;
+		padding: 20px;
+	} 
+	fieldset
+	{
+		border:solid 1px black;
+	}
+	h1
+	{
+		font-family:verdana;
+		text-align: center;
+		color:white;
+		font-family: verdana ;
+		font-size: 25px;
+		background-color: black;
+		padding: 10px;
+	}*
+	{
+		margin:0;
+		padding:0;
+	}
+	input:focus
+	{
+		color:white;
+		background:rgb(0, 12, 0);
+	}
+	body
+        {
+            background:#ebe8e8;
+
+		}
+		
+		  h3
+		  {
+			  text-align:center;
+			  background-color: #8d8a8a;
+			  padding:5px;
+		  }
+		  .butao
+		  {
+			  border:solid 1px white;
+			  background-color: black;
+			  padding:6px;
+			  color: white;
+		  }
+		  .inicial
+		  {
+			border:solid 1px white;
+			background-color: black;
+			padding:6px;
+			color: white;
+			float: right;
+			text-decoration: none;
+		  }
+		  .inicial:hover
+		  {
+			  padding: 10px;
+		  }
